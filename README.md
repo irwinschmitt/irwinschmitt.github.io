@@ -1,3 +1,1 @@
-# This is my portfolio
-
-My portfolio repo.
+# This is my portfolio page.
